@@ -1,0 +1,23 @@
+{
+  "schema": {
+    "types": [
+      {
+        "name": "Root",
+        "actions": [
+          {
+            "name": "configure",
+            "type": "Void"
+          },
+          {
+            "name": "tableChanged",
+            "type": "Void"
+          }
+        ]
+      }
+    ]
+  },
+  "dependencies": {
+    "table": "airtable:tables.one(id:\"tbl1R1Qzl586MWL5T\")",
+    "email": "email:"
+  }
+}
