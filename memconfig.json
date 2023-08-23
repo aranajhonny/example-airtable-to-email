@@ -17,7 +17,7 @@
     ]
   },
   "dependencies": {
-    "table": "airtable:tables.one(id:\"tbl1R1Qzl586MWL5T\")",
+    "table": "airtable:tables.one(id:\"<TABLEID>\")",
     "email": "email:"
   }
 }
